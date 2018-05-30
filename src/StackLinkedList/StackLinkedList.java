@@ -14,6 +14,7 @@ public class StackLinkedList {
         stack.push(i);
     }
 
+    //ok
     public void pop() {
         try {
             if (stack.isEmpty()) {
